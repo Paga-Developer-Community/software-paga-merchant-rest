@@ -35,3 +35,7 @@ Rsrc/main/java/com/paga/merchant/rest/client/request/GetForeignExchangeRequest.j
 Tsrc/main/java/com/paga/merchant/rest/client/request/ReconciliationReportRequest.java,1/7/17acf82a008633e977b91e34ba3a4ebfb0bb817b
 Å
 Qsrc/main/java/com/paga/merchant/rest/client/request/GetProcessDetailsRequest.java,5/d/5da4bf577c24de5d8e7d48d41a62fc2654a9f3f4
+ò
+hsrc/main/java/com/paga/merchant/rest/client/request/GetTransactionDetailsByMerchantReferenceRequest.java,b/4/b46a1c11c06ac790c271ef52c3fa85fe4124d3b6
+ö
+jsrc/main/java/com/paga/merchant/rest/client/response/GetTransactionDetailsByMerchantReferenceResponse.java,7/8/781efeb4b822a248929448cb74a36bc710c5f2af

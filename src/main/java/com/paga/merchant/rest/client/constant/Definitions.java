@@ -1,8 +1,6 @@
 package com.paga.merchant.rest.client.constant;
 
-/**
- * @author Iyanu Adelekan on 17/07/2016.
- */
+
 public class Definitions {
 
     public Definitions() {

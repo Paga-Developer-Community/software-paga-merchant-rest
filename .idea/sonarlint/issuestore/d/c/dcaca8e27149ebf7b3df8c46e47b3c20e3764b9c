@@ -1,5 +1,5 @@
 
-;squid:S1118"Hide this public constructor.(ƒ‰Ü·8Îþ‚ëá-
+vsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Ù×öÌùÿÿÿÿ8Îþ‚ëá-
 Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ƒ‰Ü·8Îþ‚ëá-
-vsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(¨©Šªøÿÿÿÿ8Îþ‚ëá-
 vsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(²—©Ðúÿÿÿÿ8Îþ‚ëá-
+;squid:S1118"Hide this public constructor.(ƒ‰Ü·8Îþ‚ëá-
