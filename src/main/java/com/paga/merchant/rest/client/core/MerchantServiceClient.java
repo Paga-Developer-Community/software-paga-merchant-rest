@@ -1,20 +1,16 @@
 package com.paga.merchant.rest.client.core;
 
 
-
 import com.google.gson.Gson;
 import com.paga.merchant.rest.client.constant.Definitions;
 import com.paga.merchant.rest.client.request.*;
 import com.paga.merchant.rest.client.response.*;
-import okhttp3.*;
+import okhttp3.MediaType;
+import okhttp3.RequestBody;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import java.io.IOException;
-import java.security.MessageDigest;
-import java.security.NoSuchAlgorithmException;
 import java.text.SimpleDateFormat;
-import java.util.Date;
 
 
 
